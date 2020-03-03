@@ -48,4 +48,21 @@
 9	            ｜10	  ｜10000
     
     貝爾實驗室稱此系統為“二元”表示法，因為繼電器的權重為一或五。 實際上，它不是這些數字基礎的組合； 而是一個七位混合十進制代碼。 所有的貝爾實驗室中繼計算機都以十進制算法工作。 一個特殊的電路檢查發現每個十進制數字有兩個，只有兩個繼電器通電。 另一個電路檢查了每個組中只有一個繼電器的接通狀態，這防止了兩個單獨的錯誤相互抵消，儘管某些異常組合可能無法檢測到。
+    
+    新單字
+    Relay computers 繼電器計算機
+logical schemes with diodes邏輯數據模型
+point transistor點接觸式電晶體
+fully transistor computer 全晶體管計算機
+modem 數據機
+single-chip 32-bit processor 單晶片32位處理器
+circuit 電路
+filter 濾波器
+Amplifier 放大器
+Prefix 前綴
+Analog 類比
+scientific notation 科學記號
+paper tape readers 孔帶閱讀機
+memory registers 記憶體資料暫存器
+
 
